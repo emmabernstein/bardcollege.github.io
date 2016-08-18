@@ -13,7 +13,7 @@ h1{
 
 h3{
     margin:0px;
-    color: rgb(206, 216, 167);
+    color: rgb(25, 216, 183);
 }
 
 h2{
@@ -40,7 +40,7 @@ img{
 .headshot{
     float:right;
     height: 360px;
-    padding-top:0px;
+    padding-top:4px;
 }
 
 .textbox {
@@ -55,7 +55,7 @@ img{
 .button {
     background: white;
     font-size: 110%;
-    color:gray;
+    color:white;
     padding: 4px;
     border:2px solid white;
 }
