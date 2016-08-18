@@ -26,7 +26,6 @@ h2{
 
 a {
     color: rgb(50, 118, 63);
-    text-decoration: none;
 }
 
 a:visited {
@@ -46,9 +45,9 @@ img{
 
 .textbox {
     width:70%;
-    color: white;
+    color: blue;
     font-size: 110%;
-    background:gray;
+    background:yellow;
     padding: 4px;
     border:1px solid white;
 }
